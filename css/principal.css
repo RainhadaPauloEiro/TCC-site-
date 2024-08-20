@@ -1,0 +1,11 @@
+.menuresponsivo {
+    position: absolute;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 1%;
+    margin-right: 2%;
+}
+
+a{
+    color: rgb(255, 255, 255); 
+}
