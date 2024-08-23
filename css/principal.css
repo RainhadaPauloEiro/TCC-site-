@@ -1,22 +1,20 @@
 @font-face {
-    font-family:'WC-B';
-    src: url('/Fonts/WCManoNegraBta/WCManoNegraBta.ttf')
-    format('TrueType');
+    font-family: WC;
+    src: url(../Fonts/WCManoNegraBta/WCManoNegraBta.ttf);
+  }
+@font-face{
+    font-family: Anton;
+    src: url(../Fonts/Anton.ttf);
 }
-.menuresponsivo {
-    position: absolute;
-    width: 100%;
-    font-family: 'Open Sans', sans-serif;
-    margin-top: 1%;
-    margin-right: 2%;
+
+.navbar{
+    background-color: #ad1818;
 }
 
 .navbar-nav > li > a{
-    color: rgb(228, 209, 209) !important;
-}
-.nav-item{
-    margin: 0 20px;
+    color: rgb(255, 255, 255) !important;
 }
 #linka{
-font-family: WC-B;
+font-family: Anton;
+font-size: 2em;
 }
