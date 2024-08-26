@@ -7,6 +7,9 @@
     src: url(../Fonts/Anton.ttf);
 }
 
+	
+body { overflow-x: hidden; }
+
 .navbar{
     background-color: #ad1818;
 }
@@ -15,6 +18,11 @@
     color: rgb(255, 255, 255) !important;
 }
 #linka{
-font-family: Anton;
-font-size: 2em;
+    font-family: Anton;
+    font-size: 2em;
+}
+.img-coroa{
+    width: 600px;
+    height: 400px;
+    background-color: aqua;
 }
