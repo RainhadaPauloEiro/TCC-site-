@@ -8,7 +8,9 @@
 }
 
 	
-body { overflow-x: hidden; }
+body { overflow-x: hidden; 
+background-color: #FFF9F4;
+}
 
 .navbar{
     background-color: #ad1818;
@@ -24,5 +26,13 @@ body { overflow-x: hidden; }
 .img-coroa{
     width: 600px;
     height: 400px;
-    background-color: aqua;
+    opacity: 0.2;
+}
+header{
+    font-size: 10pt;
+}
+#logo{
+    width: 70px;
+    height: 70px;
+    margin-right: 400px;
 }
